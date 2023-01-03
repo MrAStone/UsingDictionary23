@@ -20,7 +20,7 @@
         Else
             Console.WriteLine("Not in dictionary")
         End If
-        dict.Add(1, "a new value")
+        dict.Add(1, "a new value") 'add
     End Sub
 
 End Module
